@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
 🎓 Analise e desenvolvimento de sistemas<br>💻 Estudante de back end
 
 
